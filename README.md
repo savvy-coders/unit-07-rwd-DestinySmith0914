@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15274050&assignment_repo_type=AssignmentRepo)
 # Mobile-First is the Last Man Standing
 
 In the age of mobile devices, media queries are VITAL. If your website isn't optimized for viewing on a mobile device, there's a good chance few will ever view it at all! Complete this challenge to see how much you remember about media queries and responsive web design principles - as always, the curriculum is your friend! Visit your friend if you need advice!
